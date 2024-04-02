@@ -7,7 +7,6 @@ Chia sẻ đến mọi người một số kênh Youtube MIỄN PHÍ mà mình t
 ### [freeCodeCamp.org](https://www.youtube.com/@freecodecamp)
 - 🌟 **Tính Năng Nổi Bật**: Một nơi tuyệt vời cho những bạn muốn đắm mình vào thế giới coding với các video bao quát nhiều chủ đề. Đặc biệt, khóa học về "Harvard CS50“  là một khoá học rất đáng xem. Nó cung cấp cái nhìn sâu sắc về lập trình, khoa học máy tính, tư duy giải quyết vấn đề và phân tích logic qua các ví dụ thực tế.
 - 🌐 **Lĩnh vực**: Coding, Khoa học máy tính.
-- 🔗 [Truy cập kênh](https://www.youtube.com/@freecodecamp)
 
 ### [ByteByteGo](https://www.youtube.com/@ByteByteGo)
 - 🌟 **Tính Năng Nổi Bật**: Là sự lựa chọn hoàn hảo cho những ai đang chuẩn bị cho các cuộc phỏng vấn lập trình và muốn hiểu sâu hơn về Pattern Design. Kênh này giúp làm sáng tỏ các thuật toán phức tạp bằng phương pháp tiếp cận trực quan và dễ dàng tiếp cận.
