@@ -4,6 +4,10 @@ Chia sẻ đến mọi người một số kênh Youtube MIỄN PHÍ mà mình t
 
 ![Top Picks for Data Science Self-Study From Newbies to Pros!](https://github.com/kh4nh12/self_study_ds/assets/62872625/460a73b8-eec1-4b41-884b-8276e824479b)
 
+<p align="center">
+  <img src="https://github.com/kh4nh12/self_study_ds/assets/62872625/460a73b8-eec1-4b41-884b-8276e824479b" alt="Top Picks for Data Science Self-Study From Newbies to Pros!">
+</p>
+
 
 
 
