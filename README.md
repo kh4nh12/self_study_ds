@@ -1,6 +1,9 @@
 # Một số kênh Tự Học “Đỉnh” cho Data Science từ Cơ bản đến Nâng Cao 📊🚀
 
 Chia sẻ đến mọi người một số kênh Youtube MIỄN PHÍ mà mình thường theo dõi để trau dồi các kiến thức từ cơ bản đến nâng cao về Khoa học Dữ liệu.
+[Top Picks for Data Science Self-Study From Newbies to Pros!.pdf](https://github.com/kh4nh12/self_study_ds/files/14838438/Top.Picks.for.Data.Science.Self-Study.From.Newbies.to.Pros.pdf)
+
+
 
 ## 📚 Các Kênh YouTube Đề Xuất
 
